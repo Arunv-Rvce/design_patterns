@@ -6,10 +6,10 @@ Design Patterns: They are the solutions/patterns for common recurring problems i
   - Structural Design Pattern
   - Behavioral Design Pattern
   
- 1. Creational Design Pattern: As the name itself is self sufficient to explain, these are the patterns which will be used for creating instances/objects.
+ > __*Creational Design Pattern*__: As the name itself is self sufficient to explain, these are the patterns which will be used for creating instances/objects.
  Important creational design patterns are as follows:
- 1. Factory Pattern
- 2. Builder Pattern
- 3. Singelton
- 4. Abstract Factory
- 5. Prototype
+   1. Factory Pattern
+   2. Builder Pattern
+   3. Singelton
+   4. Abstract Factory
+   5. Prototype
